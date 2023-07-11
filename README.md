@@ -1,10 +1,14 @@
-# #我的学习笔记
+# #C#学习笔记
 
-## #计算机基础知识
+## #.NET基础知
 
 ### #下载.NET
 
 https://dotnet.microsoft.com/zh-cn/download
+
+### 官方文档
+
+https://learn.microsoft.com/zh-cn/dotnet/csharp/
 
 ### #.NET 体系结构
 
